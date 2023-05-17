@@ -1,1 +1,1 @@
-print("This is Module8 challenge!")
+print("This is Module 8 challenge that contain three challenges!")
