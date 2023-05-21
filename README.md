@@ -3,6 +3,6 @@
 ## Module 8 Challenge
 ### This is a repo that contains three module challenges
 
-### 1. Capstone Project 1 
-### 2. OOP- Inheritence
-### 3. File handling
+### File 1. Capstone Project 1 (CapstoneProject1.py)
+### File 2. OOP- Inheritence (OOP.py)
+### File 3. File handling (FileHandling.py)
