@@ -1,6 +1,7 @@
 # python-crash-course 
 
-## This is a repo that contains three module challenges (Module 8 challenge)
+## Module 8 Challenge
+### This is a repo that contains three module challenges
 
 ### 1. Capstone Project 1 
 ### 2. OOP- Inheritence
